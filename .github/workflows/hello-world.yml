@@ -1,6 +1,5 @@
 name: 'Hello World'
 description: 'Greet someone'
-on: [push]
 inputs:
   who-to-greet:  # id of input
     description: 'Who to greet'
